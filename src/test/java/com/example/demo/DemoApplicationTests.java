@@ -18,7 +18,7 @@ class DemoApplicationTests {
 		replaceClass.showResultSting("zdddyyyaaazzk");
 		System.out.println(replaceClass);
 		ResultStringClass errorClass= ShowResultStringFactory.getString("");
-		replaceClass.showResultSting("     ");
+		replaceClass.showResultSting("1231231");
 		System.out.println(errorClass);
 
 
